@@ -1,1 +1,1 @@
-Problem_724_FindPivotIndex().test1()
+Problem_1480_RunningSumOf1dArray().test1()
