@@ -13,4 +13,18 @@ struct Problem121_BestTimeToBuyAndSellStock {
             return maxProfit
         }
     }
+    func test1() {
+        let sol =
+            Problem121_BestTimeToBuyAndSellStock.Solution()
+        let prices = [7, 1, 5, 3, 6, 4]
+        let profit = sol.maxProfit(prices)
+        print(profit)
+    }
+    func test2() {
+        let sol =
+            Problem121_BestTimeToBuyAndSellStock.Solution()
+        let prices = [7, 6, 4, 3, 1]
+        let profit = sol.maxProfit(prices)
+        print(profit)
+    }
 }
