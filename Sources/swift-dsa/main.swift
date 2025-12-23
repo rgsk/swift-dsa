@@ -1,1 +1,1 @@
-Problem_122_BestTimeToBuyAndSellStockII().test1()
+Problem_724_FindPivotIndex().test1()
