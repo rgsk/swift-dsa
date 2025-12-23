@@ -1,1 +1,1 @@
-Problem66_PlusOne().test3()
+Problem283_MoveZeroes().test1()
